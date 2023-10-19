@@ -43,20 +43,19 @@ const socialMediaLinks = {
 };
 
 // Skills Section
-
 const skillsSection = {
-  title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  title: "What I Do",
+  subTitle: "Passionate Computer Scientist and Full-Stack Developer",
   skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+    emoji("💻 Full-Stack Development with C#, Node.js, and Angular"),
+    emoji("🤖 Exploring the World of Artificial Intelligence and Machine Learning"),
+    emoji("📊 Data Science and Analytics Enthusiast"),
+    emoji("🌐 Crafting User-Friendly Web and Mobile Applications"),
+    emoji("🚀 Innovative Problem Solver in the Tech Space"),
+    emoji("🤝 Collaborating and Creating Impactful Solutions"),
+    // Add more skills as needed
   ],
-
+  
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
